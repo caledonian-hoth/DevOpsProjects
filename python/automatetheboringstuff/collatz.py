@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#! /usr/bin/python
 import sys
 def collatz(number):
     if number % 2 == 0:
